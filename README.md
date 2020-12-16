@@ -24,3 +24,7 @@ TODO:
 - [ ] Can we handle SQL READs and formulate a way to respond data needed precisely for the query
 - [ ] Authenticate DB requests
 - [ ] Bind HTTP server to local host 
+
+## License
+
+MIT License
